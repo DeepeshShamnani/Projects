@@ -1,18 +1,33 @@
 # Radial Engine Assembly
 
-## Project Overview
-This project is a 3D CAD model and assembly of a radial engine created using Fusion 360. It demonstrates component modeling, assembly constraints, and motion simulation.
+A detailed **Fusion 360 CAD project** showcasing the modeling, assembly, and motion simulation of a radial engine.
 
-## Isometric View
+---
+
+## Project Highlights
+- 3D modeling of radial engine components
+- Assembly using joints and constraints
+- Motion simulation to demonstrate mechanism movement
+- Mechanical visualization of engine structure
+
+---
+
+## Project Gallery
+
+### Isometric View
 ![Isometric View](./isometric-view.png)
 
-## Motion Simulation
-[Watch Joint Motion Video](./radial-engine-motion.mp4)
+---
+
+## Motion Demonstration
+- [Joint Motion Animation](./radial-engine-motion.mp4)
+
+---
 
 ## Tools Used
 - Fusion 360
 
-## Key Features
-- Detailed 3D modeling of engine components
-- Assembly using joints and constraints
-- Motion simulation of engine mechanism
+---
+
+## Project Outcome
+This project helped strengthen my understanding of **3D part modeling, assembly relationships, motion study, and mechanical visualization** in Fusion 360.
