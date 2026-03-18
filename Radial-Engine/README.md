@@ -20,7 +20,7 @@ A detailed **Fusion 360 CAD project** showcasing the modeling, assembly, and mot
 ---
 
 ## Motion Demonstration
-- [Joint Motion Animation](./radial-engine-motion.mp4)
+- [Engine Motion Animation](./radial-engine-motion.mp4)
 
 ---
 
