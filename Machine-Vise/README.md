@@ -15,7 +15,7 @@ A detailed **Fusion 360 CAD project** showcasing the modeling, assembly, explode
 ## Project Gallery
 
 ### Isometric View
-![Isometric View](./isometric-view.png)
+![Isometric View](./Isometric-view.png)
 
 ### Front View
 ![Front View](./front_view.png)
