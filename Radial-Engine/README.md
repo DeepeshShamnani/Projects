@@ -20,8 +20,7 @@ A detailed **Fusion 360 CAD project** showcasing the modeling, assembly, and mot
 ---
 
 ## Motion Demonstration
-
-<video src="https://raw.githubusercontent.com/DeepeshShamnani/Projects/main/Radial-Engine/RADIAL%20ENGINE.mp4" controls width="700"></video>
+[Watch Engine Motion Animation](https://drive.google.com/file/d/1fexGiHVIwQEoLiCeYKteYyuU31ht6OLT/view?usp=sharing)
 
 ---
 
