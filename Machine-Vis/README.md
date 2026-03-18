@@ -29,8 +29,8 @@ A detailed **Fusion 360 CAD project** showcasing the modeling, assembly, explode
 ---
 
 ## Motion Demonstration
-- [Joint Animation](./joint-animation.mp4)
-- [Exploded View Animation](./explode-view-animation.mp4)
+- [Joint Animation]https://drive.google.com/file/d/1POAl400zdClKInFNMwsXWGyVACP3sjEL/view?usp=sharing
+- [Exploded View Animation]https://drive.google.com/file/d/1uHByEIlNipsFYKRWkcjBHPYnNJEdPnHr/view?usp=sharing
 
 ---
 
